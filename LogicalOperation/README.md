@@ -14,7 +14,14 @@
 
 * 像素取反(常用于二值图像中)       
 
-  `bitwise_not()`       
+  `bitwise_not()`         
+
+
+## 代码实现     
+
+[C++版本](./logicaloperation.cpp)   
+
+[Python版本](./logicaloperation.py)   
 
 
   
