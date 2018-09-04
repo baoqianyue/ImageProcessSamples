@@ -30,17 +30,17 @@
 
     * 效果如下：    
 
-        ![cvt](./image/cvt.png)     
+    ![cvt](./image/cvt.png)     
 
-        ![inrange](./image/inrange.png)       
+    ![inrange](./image/inrange.png)         
 
-        所用的测试图片均在[测试图片](./image)文件夹下    
+    所用的测试图片均在[测试图片](./image)文件夹下    
 
      * 代码     
 
-        [Python](./cvtColorSpace.py)              
+        [Python版本](./cvtColorSpace.py)              
 
-        [C++]()    
+        [C++版本]()    
 
 
 
