@@ -12,7 +12,9 @@ Some examples of image processing based on Opencv
 
 [像素逻辑操作](./LogicalOperation/README.md)     
 
-[图像色彩空间转换](./CvtColorSpace/README.md)         
+[图像色彩空间转换](./CvtColorSpace/README.md)           
+
+[图像归一化处理](./Normalize/README.md)     
 
 ## 小案例      
 
