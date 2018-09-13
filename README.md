@@ -14,7 +14,11 @@ Some examples of image processing based on Opencv
 
 [图像色彩空间转换](./CvtColorSpace/README.md)           
 
-[图像归一化处理](./Normalize/README.md)     
+[图像归一化处理](./Normalize/README.md)         
+
+[图像翻转]()   
+
+[图像卷积操作](./Convolution/README.md)     
 
 ## 小案例      
 

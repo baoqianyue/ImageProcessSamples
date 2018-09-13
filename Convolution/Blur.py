@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-src = cv.imread("C:/Users/BarackBao/Desktop/lenna.jpg")
+src = cv.imread("D:/Images/lena.jpg")
 cv.namedWindow("src", cv.WINDOW_AUTOSIZE)
 cv.imshow("src", src)
 
@@ -30,6 +30,9 @@ def custom_blur_avg(src):
 
 dst = custom_blur_avg(src)
 cv.imshow("dst", dst)
+dst1 = np.copy(src)
+dst1 = cv.blur(src, ksize=(15, 15), anchor=(-1, -1), borderType=4)
+cv.imshow("dst1", dst1)
 
 cv.waitKey(0)
 cv.destroyAllWindows()
