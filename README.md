@@ -2,7 +2,7 @@
 
 Some examples of image processing based on Opencv    
 
-每个处理操作都提供了`C++`，`Python`两种语言版本，部分内容有`Matlab`实现      
+每个处理操作都提供了`C++`，`Python`两种语言版本，部分内容有自定义实现。      
 
 
 
@@ -20,7 +20,11 @@ Some examples of image processing based on Opencv
 
 [图像卷积操作](./Convolution/README.md)     
 
-## 小案例      
+[高斯模糊](./GuassianBlur/README.md)   
+
+## 小案例        
+
+[车牌识别系统]()
 
 
 
