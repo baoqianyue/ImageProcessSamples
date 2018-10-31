@@ -20,7 +20,9 @@ Some examples of image processing based on Opencv
 
 [图像卷积操作](./Convolution/README.md)     
 
-[高斯模糊](./GuassianBlur/README.md)   
+[高斯模糊](./GuassianBlur/README.md)     
+
+[图像二值化和去噪(中值滤波)](./BinarizationAndDenoising/README.md)(包含生成模拟噪声)   
 
 ## 小案例        
 
