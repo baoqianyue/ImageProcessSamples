@@ -38,5 +38,3 @@ Some examples of image processing based on Opencv
 [车牌识别系统]()
 
 
-
-

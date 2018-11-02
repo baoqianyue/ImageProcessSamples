@@ -20,5 +20,7 @@ $$
 
 ## 参考    
 
-[高斯模糊中半径的解释](http://www.cnblogs.com/hoodlum1980/archive/2008/03/03/1088567.html)    
+[高斯模糊中半径的解释](http://www.cnblogs.com/hoodlum1980/archive/2008/03/03/1088567.html)      
+
+[阮一峰的网络日志-高斯模糊的算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html)
 
