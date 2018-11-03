@@ -28,4 +28,5 @@
 
 
 
+## 均值迁移模糊(mean-shift blur)    
 
