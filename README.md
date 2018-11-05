@@ -33,8 +33,11 @@ Some examples of image processing based on Opencv
         * 椒盐噪声      
 
 * [图像边缘保留滤波](./EdgeReservedFilter/README.md)   
-
     * 高斯双边滤波     
+
+* [图像轮廓分析](./ContourAnalysis/README.md)  
+
+    * 图像联通组件查找   
 
 
 
