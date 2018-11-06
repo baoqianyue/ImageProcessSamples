@@ -38,5 +38,11 @@ int num_labels = connectedComponents(binary, labels, 8, CV_32S);
     [C++版本](./ConnectedComponent/ConnectedComponent.cpp)  
     [Python版本](./ConnectedComponent/ConnectedComponent.py)   
 
+## 带统计信息的图像联通组件查找    
 
-
+在上一节内容的基础上，多返回了关于联通组件的一些位置信息    
+* 组件左上角点的坐标   
+* 组件的面积大小  
+* 组件外接矩形的尺寸  
+* 组件的面积  
+* 组件的中心点坐标    
