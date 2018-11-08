@@ -39,7 +39,9 @@ Some examples of image processing based on Opencv
 
     * 图像联通组件查找     
 
-    * 带统计信息的图像联通组件查找
+    * 带统计信息的图像联通组件查找   
+
+    * 图像轮廓查找并绘制    
 
 
 
