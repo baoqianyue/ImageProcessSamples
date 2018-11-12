@@ -47,6 +47,6 @@ Some examples of image processing based on Opencv
 
 ## 小案例        
 
-[车牌识别系统]()
+[车牌识别系统](./recognizeCar/README.md)
 
 
