@@ -1,5 +1,4 @@
-#图像轮廓分析   
-
+# 图像轮廓分析   
 
 ## 图像联通组件寻找     
 
@@ -35,7 +34,8 @@ int num_labels = connectedComponents(binary, labels, 8, CV_32S);
 
 * 代码实现   
 
-    [C++版本](./ConnectedComponent/ConnectedComponent.cpp)  
+    [C++版本](./ConnectedComponent/ConnectedComponent.cpp)    
+
     [Python版本](./ConnectedComponent/ConnectedComponent.py)   
 
 ## 带统计信息的图像联通组件查找    
@@ -58,10 +58,21 @@ int num_labels = connectedComponents(binary, labels, 8, CV_32S);
 
 * 组件的中心点坐标   
 
-    `centroids`      
+    `centroids`       
 
 
-## 图像轮廓查找并绘制      
+## 图像轮廓查找并绘制        
+
+通过图像联通组建查找我们可以得到图像的一些联通区域，以及它们的一些统计信息，但是我们还无法得到各个组件之间的层次关系和几何拓扑关系，使用`findContours`可以得到图像中存在的轮廓信息，然后使用`drawContours`可以直接将轮廓绘制出来，方便后续的分析     
+
+![result](./FindContoursAndDraw/img/result.png)     
+
+* 代码   
+
+    [C++版本](./FindContoursAndDraw/FindContourAndDraw.cpp)     
+
+    [Python版本](./FindContoursAndDraw/FindContourAndDraw.py)
+
 
 
 
